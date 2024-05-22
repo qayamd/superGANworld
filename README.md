@@ -18,6 +18,7 @@ This repo does not contain any level data or model of any kind. However, when tr
 ![Local image](/images/1.png)
 ![Local image](/images/2.png)
 Clearly, some fine tuning is still required. It is important to note the lack of conceptual understanding on the part of the model of what a "good" level would look like.
+These images are examples from a GAN trained on ~2000 super mario world levels.
 
 ## What's to come?
 I originally had the idea that this would work with an open source emulator like [snes9x](https://www.snes9x.com/), which would run the game, while the GAN would generate levels
